@@ -1,0 +1,19 @@
+.catalog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product {
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+}
+
+#cart {
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 10px;
+}
